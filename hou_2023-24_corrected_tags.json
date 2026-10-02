@@ -1,0 +1,30 @@
+[
+  {
+    "player": "Jalen Green",
+    "player_id": 1630224,
+    "team": "HOU",
+    "GP": 82,
+    "GS": 82,
+    "Rostered": 82,
+    "Injured": 0,
+    "Inactive": 0,
+    "Eligible": 82,
+    "GP_pct": 1.0,
+    "GS_pct": 1.0,
+    "tag": "ST"
+  },
+  {
+    "player": "Jeff Green",
+    "player_id": 201145,
+    "team": "HOU",
+    "GP": 78,
+    "GS": 6,
+    "Rostered": 82,
+    "Injured": 4,
+    "Inactive": 0,
+    "Eligible": 78,
+    "GP_pct": 1.0,
+    "GS_pct": 0.077,
+    "tag": "SB"
+  }
+]
